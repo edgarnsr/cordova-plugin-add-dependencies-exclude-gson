@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-add-dependencies-exclude-gson",
+  "version": "0.0.1",
+  "description": "cordova-plugin-add-dependencies-exclude-gson",
+  "cordova": {
+    "id": "cordova-plugin-add-dependencies-exclude-gson",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "dependencies",
+    "android",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Edgar Salmeron",
+  "license": "Apache 2.0"
+}
